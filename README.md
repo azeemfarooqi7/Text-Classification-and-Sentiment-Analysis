@@ -6,7 +6,7 @@ This project implements a text classification model for sentiment analysis using
 
 ## 📁 Files in the Repository
 
-- `journal_11_murtaza_03_134211_032.py`: The main Python script for preprocessing text, building the model, and training/testing the text classifier.
+- `Text_Classification_and_Sentiment_Analysis.py`: The main Python script for preprocessing text, building the model, and training/testing the text classifier.
 
 ## 🚀 Getting Started
 
